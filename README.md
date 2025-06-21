@@ -16,6 +16,18 @@ This project demonstrates how core web server features work — including file s
  ✅ Fully compatible with **Linux** and **WSL on Windows**
 
 
+ ## 📸 Screenshots
+
+### 🖥️ Server Running in Terminal
+
+![Server running](server.png)
+
+### 🌐 Web Page in Browser
+
+![Web output](web.png)
+
+
+
 ## 🛠️ Prerequisites
 
 Make sure your environment has:
