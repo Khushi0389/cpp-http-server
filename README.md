@@ -92,7 +92,3 @@ Expected response: 404 Not Found
 🧹 Clean Build Files
 make clean
 This will remove the compiled executable (server).
-
-🙋‍♀️ Author
-Khushi Gupta
-GitHub: @Khushi0389
